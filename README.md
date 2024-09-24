@@ -4,6 +4,6 @@ To execute:
 
 make
 ./sobelfilter
-To clean:
 
+To clean:
 make clean
